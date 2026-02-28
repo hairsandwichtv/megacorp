@@ -1,0 +1,30 @@
+[33mcommit 04e2dd9d91de3153532ff36fe5f5222a5ee79d54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd_customers[m[33m)[m
+Merge: 3e66763 c657c6b
+Author: HairSandwichTV <HairSandwichTV@Gmail.com>
+Date:   Sat Feb 28 11:14:00 2026 -0500
+
+    E: resolve conflict with stupid Greg's customer
+
+[33mcommit c657c6b84c315ba7ae4dcd2da0ce4ea5bd3e4c4e[m[33m ([m[1;32mmain[m[33m)[m
+Author: HairSandwichTV <HairSandwichTV@Gmail.com>
+Date:   Sat Feb 28 11:02:57 2026 -0500
+
+    D: add jayson to customers
+
+[33mcommit 3e6676375109fa449daec35b7aa62ab64a693e11[m
+Author: HairSandwichTV <HairSandwichTV@Gmail.com>
+Date:   Sat Feb 28 11:00:59 2026 -0500
+
+    C: update customers and partners
+
+[33mcommit ba173c96277bcdad9054c7615d06a6e5af82856a[m
+Author: HairSandwichTV <HairSandwichTV@Gmail.com>
+Date:   Sat Feb 28 10:53:22 2026 -0500
+
+    B: recovery
+
+[33mcommit 0d16f954dfda53be7e875da6a23698c428cf68af[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wagslane <lane.c.wagner@gmail.com>
+Date:   Wed Jun 26 11:22:51 2024 -0600
+
+    A: The Founding of MegaCorp and the End of Art
